@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringBoot_Mybatis
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: 张文浩
+Implementation-Vendor-Id: ANHE
+Build-Jdk: 1.8.0_171
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/SpringBoot_Mybatis
+Created-By: Maven Integration for Eclipse
+
